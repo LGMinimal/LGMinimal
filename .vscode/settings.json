@@ -55,6 +55,20 @@
         "string.h": "c",
         "stdlib.h": "c",
         "output.h": "c",
-        "windows.h": "c"
-    }
+        "windows.h": "c",
+        "colors.h": "c",
+        "exec.h": "c",
+        "filesystem": "c",
+        "algorithm": "c",
+        "chrono": "c",
+        "optional": "c",
+        "vector": "c",
+        "lexical.h": "c",
+        "ctype.h": "c",
+        "sstream": "c",
+        "ratio": "c",
+        "parser.h": "c",
+        "syntax.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

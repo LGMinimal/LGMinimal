@@ -1,0 +1,3 @@
+local print: void = function(input: string)
+    printf asciz[input]
+end
